@@ -1,4 +1,4 @@
-# Disable GPSU APEX Updates
+# Disable GPSU APEX Updates | please star the repo 🙏🏼😭
 
 A KernelSU / Magisk module that prevents Google Play System Update (GPSU) APEX modules from staging and causing bootloops on legacy Exynos devices.
 
