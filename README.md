@@ -1,4 +1,6 @@
-# Disable GPSU APEX Updates (bootloops) | please star the repo 🙏🏼😭
+### quick note: my s9+ broke (dropped it in a swimming pool :p) i wont be able to test if this currently works or not... if it doesnt just do the emergency fix and itll be fine you can do it from twrp file browser aswell just delete the apex folder in the respective dir
+---
+# Disable GPSU APEX Updates (bootloops) 
 
 A KernelSU / Magisk module that prevents Google Play System Update (GPSU) APEX modules from staging and causing bootloops on legacy Exynos devices.
 
